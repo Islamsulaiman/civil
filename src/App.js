@@ -1,7 +1,11 @@
 import React from "react";
 
 function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <button className='bt btn-primary'>App</button>
+    </div>
+  );
 }
 
 export default App;
